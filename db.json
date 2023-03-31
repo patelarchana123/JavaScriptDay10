@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "XYZ",
+      "age": 20,
+      "email": "xyz@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "ABC",
+      "age": 20,
+      "email": "ABC@gmail.com"
+    },
+    {
+      "name": "Raj",
+      "age": 23,
+      "email": "raj@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "archana",
+      "age": "21",
+      "email": "adipatel2820@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "jiatry",
+      "age": "21",
+      "email": "jaitry@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "drshti",
+      "age": "23",
+      "email": "drshti@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "riya",
+      "age": "21",
+      "email": "riya@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Raj",
+      "age": 23,
+      "email": "raj@gmail.com",
+      "id": 9
+    }
+  ]
+}
