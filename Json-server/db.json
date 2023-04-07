@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 20,
+      "firstname": "Archana",
+      "lastname": "patel",
+      "phonenumber": "8900000000",
+      "email": "hiren.tandel@1rivet.com",
+      "password": "Archana@123"
+    },
+    {
+      "firstname": "Drshti",
+      "lastname": "Desai",
+      "phonenumber": "8923456573",
+      "email": "drshti.desai@1rivet.com",
+      "password": "Drshti@123",
+      "id": 21
+    },
+    {
+      "firstname": "Riya",
+      "lastname": "Patel",
+      "phonenumber": "9812345675",
+      "email": "riya.patel@1rivet.com",
+      "password": "Riya@123",
+      "id": 22
+    },
+    {
+      "id": 23,
+      "firstname": "jaitry",
+      "lastname": "patel",
+      "phonenumber": "8700000001",
+      "email": "jaitry.patel@1rivet.com",
+      "password": "Jaitry@123"
+    }
+  ]
+}

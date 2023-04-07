@@ -1,0 +1,30 @@
+.body{
+    background-color:#F0F1F3;
+}
+.parent{
+    height: 100%;
+    display: flex;
+    flex-direction: coloumn;
+}
+.main{
+    flex-grow: 1;
+}
+.navbar{
+    background-color: aqua;
+}
+.navbar-one{
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+    border: 1px solid black;
+    width:30%;
+}
+.search-input{
+    border: none;
+    width: 100%;
+    cursor: pointer;
+}
+.navbar{
+    
+}
